@@ -1,1 +1,26 @@
 /*use this file to style your project however you like*/
+body{
+  background-color: #666;
+}
+form{
+  margin: 50px 0 0 50px;
+}
+input{
+  display: block;
+  margin-top: 20px;
+}
+button{
+  margin-left: 50px;
+  margin-top: 20px;
+}
+#myDIV{
+  height: 675px;
+  width: 675px;
+  display: block;
+  margin: auto;
+  background: url("http://planetoftheweb.com/i/8ball/empty.png");
+  background-size: 675px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #666;
+}
